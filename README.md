@@ -6,15 +6,16 @@
 
 ---
 
-## 准备
-1. Linux用户
+## Linux用户
+1. 准备 
    
    1. QT 5.9.0 或者更高 http://download.qt.io/archive/qt/ 下载Linux版本的QT，下载的.run文件是可执行文件，直接双击即可开始安装
    2. git Linux系统用户获取git https://git-scm.com/download/linux 
 
-2. Windows用户
+---
+
+## Windows用户
+1. 准备
    
    1. QT 5.9.0 或者更高 http://download.qt.io/archive/qt/ 下载Windows版本的QT，下载的.exe文件是可执行文件，直接双击即可开始安装
    2. git Windows系统用户获取git https://git-scm.com/download/win
----
-## 同步
