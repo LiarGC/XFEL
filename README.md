@@ -9,4 +9,4 @@
 ## 准备
 1. Linux
    
-   1. QT 5.9.0 或者更高（http://download.qt.io/archive/qt/）
+   1. QT 5.9.0 或者更高（http://download.qt.io/archive/qt/
