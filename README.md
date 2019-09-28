@@ -21,7 +21,16 @@
    ```
    这样你就得到了我们的代码！
 3. 编译
-   
+   进入XREF文件夹，在这个文件夹内打开终端（一般在空白处点击鼠标右键你就可以找到这个功能）
+   输入如下代码
+   ```
+   cd Huang_GC/
+   rm Huang_GC.pro.user
+   mkdir build
+   cd build
+   qmake ..
+   make
+   ```
 
 ---
 
