@@ -8,9 +8,10 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
     setWindowTitle("XFEL");
 
-    connect(ui->AtomName,&QPushButton::pressed,[=](){
+    //if using the following code, 'make' will fail for unkonwn reason
+    /*connect(ui->AtomName,&QPushButton::pressed,[=](){
         name.show();
-    });
+    });*/
 }
 
 MainWindow::~MainWindow()

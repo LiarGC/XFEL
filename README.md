@@ -2,7 +2,7 @@
 # The first group of designers are chinese students, so the English Guide will be published later
 ---
 ## 这个软件是干什么的？
-这是一个基于qt的，模拟自由电子激光与物资相互作用的软件，由于我们的工程还在起步阶段，现在只是测试开源的方式
+这是一个基于qt的，模拟激光与物质相互作用的软件，由于我们的工程还在起步阶段，现在只是测试开源的方式
 
 ---
 
@@ -16,9 +16,13 @@
    
    在终端输入如下代码
    ```
-   cd/d PATH(用户需要自己填写保存路径)
+   cd PATH(用户需要自己填写PATH这个保存路径)
    git clone git@github.com:LiarGC/XREF.git
    ```
+   这样你就得到了我们的代码！
+3. 编译
+   
+
 ---
 
 ## Windows用户
