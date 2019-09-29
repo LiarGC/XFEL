@@ -34,6 +34,7 @@
    ./XFEL
    ```
 4. 源代码的更改与上传
+
    更改源代码请在 QT Creator 中进行
 
    使用 QT Creator 打开Source文件夹中的 XFEL.pro
