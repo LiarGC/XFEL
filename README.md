@@ -29,12 +29,14 @@
    chmod +x ./make.sh
    ./make.sh
    ```
-   至此编译完成，会生成一个新的build文件夹，进入这个文件夹可找到可执行文件XFEL
-   生成的可执行文件XFEL可由如下代码执行
+   至此编译完成，会生成一个新的build文件夹，进入这个文件夹可找到可执行文件XFEL，生成的可执行文件XFEL可由如下代码执行
    ```
    ./XFEL
    ```
 4. 源代码的更改与上传
+   更改源代码请在 QT Creator 中进行
+
+   使用 QT Creator 打开Source文件夹中的 XFEL.pro
 
 ### Windows用户（未完成）
 1. 准备
