@@ -24,16 +24,12 @@
    继续上一步，输入如下代码
    ```
    cd XREF
-   cd Huang_GC/
-   rm Huang_GC.pro.user
-   mkdir build
-   cd build
-   qmake ..
-   make
+   chmod +x ./make.sh
+   ./make.sh
    ```
    至此编译完成，生成的可执行文件Huang_GC可由如下代码执行
    ```
-   ./Huang_GC
+   ./XFEL
    ```
 
 ---
