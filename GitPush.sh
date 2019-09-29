@@ -1,4 +1,4 @@
 #!/bin/bash
-git add Huang_GC  README.md
+git add Source  README.md GitPush.sh make.sh
 git commit -m "LiarGC"
 git push -u origin master
